@@ -1,3 +1,8 @@
+.navbar-default {
+    background-color: none;
+    border-color: none;
+}
+
 .logo {
 	img src: "images/anfibia.png";
 	height:"70";
